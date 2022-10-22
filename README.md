@@ -1,1 +1,1 @@
-My book reviews and summaries website. Hosted at https://www.bookreviews.io.
+My thoughts and experiences on leadership. Hosted at https://www.leadershipjourney.io.
