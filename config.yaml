@@ -1,0 +1,45 @@
+baseURL: 'http://www.leadershipjourney.io/'
+languageCode: 'en-us'
+title: "Tarik's Leadership Journey"
+theme: "PaperMod"
+paginate: 10
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+params:
+  author: ["Tarik Guney"]
+  keywords: [Leadership, Human Management, Team Leadership]
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  DateFormat: "January 2, 2006"
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  ShowShareButtons: true
+  homeInfoParams:
+    Title: "Hey, I am Tarik Guney!"
+    Content: "I am a Senior Manager. Learning is a inseparable part of my leadership journey. I share my thoughths and experiences with you on this site mostly in short posts. You can find me at LinkedIn and Github!"
+  socialIcons:
+    - name: "linkedin"
+      url: "https://linkedin.com/in/tarikguney"
+    - name: "github"
+      url: "https://github.com/tarikguney"
+  editPost:
+    URL: "https://github.com/tarikguney/leadership-journey/blob/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
