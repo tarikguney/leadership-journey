@@ -1,8 +1,10 @@
+# Leadership Journey Website
+
 My thoughts and experiences on leadership. Hosted at https://www.leadershipjourney.io.
 
 This website uses Hugo static website generator.
 
-A couple of things I learned as I was setting this site up:
+### A couple of things I learned as I was setting this site up:
 
 - Place `CNAME` file under `static` folder with the domain name inside looking like `www.leadershipjourney.io`. Otherwise, the Github Action overwrites and deletes the `CNAME` file and you need to set it up manually again on Setttings > Page page. Adding a custom domain automatically adds `CNAME` file in the repository.
 - Running `hugo` command builds the website, but if you want to see the changes quickly, run `hugo server` command, which boths watches the changes and automatically rebuilds the website.
