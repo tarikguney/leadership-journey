@@ -1,7 +1,7 @@
 ---
 title: "Trust"
 date: 2022-10-07
-draft: true
+draft: false
 ---
 
 Trust can be many things, two of which are to trust people's competency and honesty.

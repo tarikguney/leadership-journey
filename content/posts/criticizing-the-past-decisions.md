@@ -1,7 +1,7 @@
 ---
 title: "Criticizing the Past Decisions"
 date: 2022-10-22T23:40:56-06:00
-draft: true
+draft: false
 ---
 
 When it comes to criticizing past decisions, perhaps one of the most common mistakes is to criticize them with today's standards and realities and blame them for our troubles today with this mindset.
