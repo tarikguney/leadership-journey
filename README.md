@@ -15,3 +15,6 @@ This website uses Hugo static website generator.
 - If you are using Cloudflare, by adding the following page rules, you can have HTTPS and www redirection work:
     - http://leadershipjourney.io/* -> Always Use HTTPS
     - https://leadershipjourney.io -> Forwarding URL -> https://www.leadershipjourney.io
+- This website is using PagerMod template, and the [settings can be found here](https://adityatelange.github.io/hugo-PaperMod/).
+- I originally added the `templates/PagerMod` as a Git Submodule but quickly realized that it was bad decision as I had to customize the template and you cannot push changes to the original PagerMod repo. So, don't do it.
+- I am using `layouts/partials/extend_head.html` to store the Google Analytics code. The template does not seem to be supporting the Google Tag Manager, which is the newer version of Google Analtyics. 
