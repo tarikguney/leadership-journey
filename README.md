@@ -2,7 +2,7 @@
 
 My thoughts and experiences on leadership. Hosted at https://www.leadershipjourney.io.
 
-This website uses Hugo static website generator.
+This website uses [Hugo static website generator](https://gohugo.io) with [PagerMod])https://adityatelange.github.io/hugo-PaperMod) template.
 
 ## A couple of things I learned as I was setting this site up:
 
