@@ -1,7 +1,7 @@
 ---
 title: "Do not push back but collaborate"
 date: 2022-10-25T22:50:28-06:00
-draft: false
+draft: true
 ---
 
 When pushing back, people often put hard limits. For some rare cases or specific situations, pushing back on the ask is acceptable, such as being expected for 15 hours every single day or changing the priorities very often to block the team from delivering anything.
